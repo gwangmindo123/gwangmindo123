@@ -6,7 +6,11 @@
 - 한신대학교 소프트웨어 융합학부 재학
 - 안녕동
 
+<p align="center">
 
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
+
+</p>
 
 <!--
 **gwangmindo123/gwangmindo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
