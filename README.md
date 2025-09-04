@@ -1,4 +1,9 @@
-## Hi ther 👋
+## Hi there 👋
+
+- 안화고등학교 졸업
+- 한신대학교 소프트웨어 융합학부 재학
+- 안녕동 거주중
+
 
 <!--
 **gwangmindo123/gwangmindo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
