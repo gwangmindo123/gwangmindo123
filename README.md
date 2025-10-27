@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 안녕하세요! 한신대학교 소프트웨어융합학부 도광민입니다.
+# 👋 안녕하세요! 한신대학교 소프트웨어융합학부 22학번 도광민입니다.
 ### Hanshin University, Department of Software Convergence
 
 </div>
