@@ -1,26 +1,22 @@
 <div align="center">
   
-# 👋 안녕하세요! 한신대학교 소프트웨어융합학부 22학번 도광민입니다.
-### Hanshin University, Department of Software Convergence
+# 👋 Hi, I'm Gwangmin Do!
+### A student at Hanshin University, School of Software Convergence.
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
-> 안녕하세요 한신대학교 소프트웨어 융합학부 22학번 23살 군필 도광민입니다.
+### 👨‍💻 About Me
 
-- **이름:** 도광민
-- **소속:** 한신대학교 소프트웨어융합학부
-- **관심 분야:** `[ 예: 프론트엔드, 백엔드, AI, 보안 등 ]`
-- **이메일:** `[ as1545915@hs.ac.kr ]`
-- **블로그:** `[ 운영하는 블로그가 있다면 링크를 추가하세요 ]`
+- 🎓 **University:** Hanshin University
+- 🏫 **Major:** School of Software Convergence
+- 📅 **Class of:** '22
+- 🤔 **Interests:** I'm currently exploring various fields in software engineering.
 
 ---
 
-## 🛠️ Tech Stack
-> 주로 사용하거나 자신 있는 기술 스택의 아이콘을 추가해보세요.
-> [Shields.io](https://shields.io/)에서 더 많은 뱃지를 찾아 추가할 수 있습니다.
+### 🛠️ Tech Stack
 
 <div align="center">
   
@@ -47,19 +43,18 @@
 
 ---
 
-## 🚀 Projects
-> 진행했던 프로젝트
+### 🚀 Projects
+> You can list your projects here.
 
-| 프로젝트 명 | 설명 | 링크 |
+| Project | Description | Link |
 |---|---|---|
-| `[ 프로젝트 1 ]` | `[ 프로젝트에 대한 간략한 설명 ]` | `[ GitHub Repo or Demo Link ]` |
-| `[ 프로젝트 2 ]` | `[ 프로젝트에 대한 간략한 설명 ]` | `[ GitHub Repo or Demo Link ]` |
-| `[ 프로젝트 3 ]` | `[ 프로젝트에 대한 간략한 설명 ]` | `[ GitHub Repo or Demo Link ]` |
+| `[ Project 1 ]` | `[ A brief description of your project ]` | `[ GitHub Repo or Demo Link ]` |
+| `[ Project 2 ]` | `[ A brief description of your project ]` | `[ GitHub Repo or Demo Link ]` |
+| `[ Project 3 ]` | `[ A brief description of your project ]` | `[ GitHub Repo or Demo Link ]` |
 
 ---
 
-## 📊 GitHub Stats
-> `YOUR_GITHUB_USERNAME`을 실제 GitHub 아이디로 변경해주세요.
+### 📊 GitHub Stats
 
 <div align="center">
 
