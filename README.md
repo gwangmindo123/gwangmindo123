@@ -72,8 +72,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-typing-svg.herokuapp.com?font=Roboto&color=fe428e&size=20&center=true&vCenter=true&width=400&height=50&lines=57+contributions+in+the+last+year" alt="Typing SVG" />
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwangmindo123&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwangmindo123&layout=compact&theme=radical)
 ![gwangmindo123's Contributions](https://github.pumbas.net/api/contributions/gwangmindo123?colour=fe428e&bgColour=141321&dotColour=a9fef7)
