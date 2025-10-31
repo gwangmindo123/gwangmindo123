@@ -16,6 +16,26 @@
 
 ---
 
+### 💼 Work Experience
+
+| Company | Role | Period |
+|---|---|---|
+| 🍨 Sulbing | Store Staff | 1.5 years |
+| 🏪 Convenience Store | Store Staff | 3 years (ongoing) |
+
+---
+
+### 🎓 Education
+
+| Institution | Degree | Status |
+|---|---|---|
+| 🏫 Hanshin University | School of Software Convergence | Enrolled |
+| 🏫 Anhwa High School | High School Diploma | Graduated |
+| 🏫 Donghwa Middle School | Middle School Diploma | Graduated |
+| 🏫 Donghwa Elementary School | Elementary School Diploma | Graduated |
+
+---
+
 ### 🛠️ Tech Stack
 
 <div align="center">
