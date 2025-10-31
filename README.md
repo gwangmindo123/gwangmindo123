@@ -74,6 +74,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gwangmindo123&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gwangmindo123&layout=compact&theme=radical)
-![gwangmindo123's Contributions](https://github.pumbas.net/api/contributions/gwangmindo123?colour=fe428e&bgColour=141321&dotColour=a9fef7)
 
 </div>
